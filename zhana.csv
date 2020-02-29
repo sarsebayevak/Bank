@@ -1,0 +1,111 @@
+age;gender;marital status;kids;education;job;housing;deposit;loan;current loan
+25;female;married;yes;bachelor degree;management;no;yes;yes;500000
+44;male;married;yes;masters degree;service;yes;yes;no;0
+30;male;single;no;mba;management;no;no;yes;780000
+20;male;single;no;student;student;no;no;no;0
+29;female;divorced;yes;bachelor degree;housemaid;yes;yes;no;0
+21;female;married;no;college diploma;management;no;yes;no;0
+26;male;single;no;masters degree;admin.;no;yes;yes;50000
+20;female;single;no;student;student;no;no;no;0
+35;female;married;yes;college diploma;housemaid;yes;yes;no;0
+34;male;divorced;yes;mba;enterpreneur;yes;yes;yes;1000000
+28;male;single;no;masters degree;management;no;yes;no;0
+45;male;married;yes;masters degree;technician;yes;no;no;0
+56;female;married;yes;masters degree;service;yes;yes;yes;8000000
+59;female;single;yes;bachelor degree;service;yes;yes;yes;1000000
+30;male;married;no;masters degree;admin.;no;no;yes;100000
+29;male;married;no;bachelor degree;technician;no;yes;no;0
+25;female;single;yes;bachelor degree;admin.;no;no;no;0
+48;male;single;no;high school;blue-collar;yes;yes;no;0
+40;male;divorced;yes;college diploma;unemployed;yes;no;no;0
+30;female;divorced;yes;high school;unemployed;no;no;yes;300000
+31;female;married;yes;bachelor degree;admin.;yes;yes;no;0
+33;male;married;yes;bachelor degree;management;yes;no;no;0
+55;male;married;yes;mba;enterpreneur;yes;no;yes;4000000
+25;male;single;no;bachelor degree;enterpreneur;no;yes;no;0
+24;male;single;no;bachelor degree;admin.;no;yes;no;0
+63;female;divorced;yes;high school;housemaid;yes;yes;no;0
+48;female;married;yes;masters degree;management;yes;no;no;0
+38;female;single;no;masters degree;management;yes;yes;no;0
+30;female;married;no;college diploma;service;no;no;no;0
+29;male;divorced;no;high school;blue-collar;no;yes;yes;170000
+25;male;married;yes;high school;blue-collar;no;yes;no;0
+46;female;divorced;yes;masters degree;management;yes;yes;yes;800000
+35;male;single;no;masters degree;technician;yes;no;yes;2000000
+42;female;single;yes;bachelor degree;technician;yes;yes;no;0
+20;male;single;no;student;student;no;no;no;0
+18;female;single;no;student;student;yes;yes;no;0
+44;female;married;yes;bachelor degree;enterpreneur;yes;no;yes;150000
+35;male;divorced;yes;high school;blue-collar;no;no;no;0
+36;male;single;no;bachelor degree;technician;yes;no;yes;600000
+38;female;single;no;masters degree;management;no;no;yes;3000000
+41;female;married;yes;college diploma;blue-collar;yes;yes;yes;400000
+19;female;single;no;high school;service;yes;yes;no;0
+53;male;divorced;yes;high school;unemployed;no;yes;no;0
+41;male;divorced;yes;masters degree;technician;yes;no;yes;350000
+30;male;married;yes;bachelor degree;enterpreneur;no;no;yes;8000000
+55;female;married;yes;masters degree;admin.;yes;yes;yes;300000
+53;female;married;yes;high school;blue-collar;yes;no;no;0
+42;male;married;yes;college diploma;blue-collar;no;yes;no;0
+19;male;single;no;student;service;no;no;yes;0
+25;female;married;no;high school;service;no;yes;yes;0
+26;male;single;no;masters degree;unemployed;yes;no;no;0
+24;female;single;no;college diploma;service;no;yes;no;0
+23;male;single;no;college diploma;service;no;no;yes;150000
+33;female;divorced;yes;high school;service;no;yes;yes;200000
+37;male;divorced;yes;masters degree;technician;yes;no;no;0
+56;female;married;yes;bachelor degree;housemaid;yes;yes;no;0
+36;female;married;yes;college diploma;housemaid;no;yes;yes;2500000
+20;female;single;no;student;student;no;yes;no;0
+21;male;single;no;mba;management;yes;yes;no;0
+23;male;married;yes;mba;enterpreneur;yes;no;no;0
+28;male;married;yes;high school;blue-collar;yes;no;no;0
+49;male;divorced;yes;college diploma;service;yes;yes;no;0
+41;male;divorced;yes;mba;enterpreneur;no;yes;yes;800000
+31;female;married;no;bachelor degree;service;no;yes;yes;380000
+51;male;divorced;no;bachelor degree;technician;no;yes;yes;2000000
+61;female;single;yes;masters degree;management;yes;yes;no;0
+30;male;single;no;masters degree;admin.;no;yes;no;0
+35;female;married;yes;college diploma;service;yes;no;no;0
+36;female;married;yes;high school;blue-collar;no;no;yes;400000
+38;male;married;yes;bachelor degree;admin.;yes;no;yes;5000000
+29;female;single;no;masters degree;technician;yes;no;yes;1500000
+39;male;divorced;yes;mba;enterpreneur;yes;no;no;0
+34;female;divorced;yes;bachelor degree;enterpreneur;yes;yes;no;0
+52;male;married;yes;masters degree;technician;yes;yes;yes;450000
+19;female;married;no;student;student;no;yes;no;0
+20;male;single;no;student;student;no;no;no;0
+25;female;divorced;yes;bachelor degree;unemployed;yes;no;no;72000
+26;male;single;no;bachelor degree;unemployed;no;yes;yes;100000
+23;female;married;yes;masters degree;admin.;no;no;no;0
+28;female;married;yes;bachelor degree;management;no;yes;yes;450000
+38;male;married;yes;bachelor degree;housemaid;yes;no;no;0
+39;female;divorced;no;mba;enterpreneur;no;yes;yes;1500000
+30;female;married;yes;masters degree;enterpreneur;no;no;yes;9000000
+35;male;married;yes;masters degree;management;yes;yes;yes;2200000
+24;male;single;no;student;student;no;no;no;0
+26;female;single;no;college diploma;service;no;yes;no;0
+48;male;single;no;bachelor degree;technician;yes;yes;no;0
+37;female;single;no;masters degree;enterpreneur;no;no;no;0
+37;male;married;yes;masters degree;admin.;yes;no;no;0
+36;female;married;yes;high school;blue-collar;no;yes;yes;500000
+25;male;single;yes;college diploma;blue-collar;no;yes;no;0
+20;male;single;no;high school;blue-collar;no;yes;yes;1500000
+24;male;single;no;bachelor degree;service;yes;yes;no;0
+25;female;single;no;bachelor degree;management;no;yes;yes;250000
+38;male;single;yes;mba;enterpreneur;yes;yes;no;0
+25;female;single;no;bachelor degree;admin.;no;no;yes;500000
+20;female;single;no;student;service;no;yes;no;0
+21;male;married;yes;student;student;no;no;no;0
+23;female;divorced;yes;bachelor degree;management;no;yes;yes;700000
+22;male;married;no;bachelor degree;enterpreneur;no;no;yes;4000000
+23;male;married;no;college diploma;admin.;no;yes;no;0
+41;female;married;yes;masters degree;management;yes;no;no;0
+44;female;married;yes;college diploma;service;no;no;no;0
+61;male;married;yes;bachelor degree;unemployed;yes;yes;no;0
+55;female;married;yes;mba;unemployed;yes;yes;yes;100000
+34;male;married;no;college diploma;unemployed;yes;yes;no;0
+35;female;divorced;yes;mba;enterpreneur;yes;no;yes;500000
+37;female;divorced;no;bachelor degree;enterpreneur;yes;yes;no;0
+38;male;married;yes;high school;unemployed;yes;no;yes;120000
+30;male;married;yes;bachelor degree;management;yes;yes;no;0
